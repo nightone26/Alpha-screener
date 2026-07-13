@@ -1,6 +1,6 @@
 import streamlit as st
 import yfinance as yf
-import pandas_ta as ta
+import pandas-ta as ta
 import pandas as pd
 
 # Konfigurasi tampilan web
